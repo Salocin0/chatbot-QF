@@ -1,0 +1,3 @@
+Entrenador.ipynb: se descarga un variacion de bert para preguntas y respuestas en español y se le hace un re-entrenamiento para dale contexto del proyecto final (para hacer pruebas se tomo un dataset de preguntas y respuestas)
+
+PruebaPregunta.ipynb: se levanta el modelo y se le hace una pregunta con contexto para ver si aprendio del dataset (se levanta el modelo que esta dentro de models/1.2, por cuestion de tamaño del archivo se subio a drive:https://drive.google.com/file/d/1wq9iUF_T6xS1phhF2hAlO_7_8AziqB8K/view?usp=sharing)
